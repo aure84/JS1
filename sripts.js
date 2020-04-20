@@ -1,2 +1,2 @@
-var a = 'szöveg';
-document.write(a);
+//var a = 'szöveg';
+//document.write(a);
